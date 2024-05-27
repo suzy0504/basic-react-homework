@@ -1,0 +1,30 @@
+body,
+html {
+  background-color: #959eb2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.countBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 100px;
+  flex-direction: column;
+}
+
+button {
+  background-color: #384455;
+  color: white;
+  border-radius: 5px;
+  width: 50px;
+  height: 30px;
+  margin: 0 5px 0 5px;
+}
+
+.resetBtn {
+  margin-bottom: 10px;
+  width: 95%;
+}
